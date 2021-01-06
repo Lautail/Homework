@@ -7,6 +7,7 @@ from apps.front import models as front_models
 from apps.models import BoardModel, PostModel,CommentModel
 
 //xxmmmmm
+//local 测试
 >>>>>>> master
 CMSUser = cms_models.CMSUser
 CMSRole = cms_models.CMSRole
